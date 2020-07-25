@@ -7,7 +7,7 @@ PermissionX是一个用于简化Android运行时权限用法的开源库。
 ```groovy
 dependencies {
     ...
-    implementation 'com.permissionx.guolindev:permissionx:1.0.0'
+    implementation 'com.permissionx.wayne:permissionx:1.0.0'
 }
 ```
 
